@@ -4,18 +4,19 @@ layout: page
 
 <div style="display: flex; justify-content: space-between; align-items: center;">
         <div style="flex: 1; padding-right: 20px;">
-            <img src="images/lily.jpg" alt="Your Image" style="max-width: 80%; height: 100%; display: block;">
-            <br>
-            <p style="margin-left: 3%"><a href="/files/cv.pdf">CV</a>  /  <a href="mailto:lily.goli@mail.utoronto.ca">Email</a>  /  <a href="https://scholar.google.com/citations?user=2wnyE-8AAAAJ&hl=en">Scholar</a>  /  <a href="https://github.com/lilygoli">Github</a>  /  <a href="https://twitter.com/lily_goli">Twitter</a></p> 
+            <img src="images/3DV.jpeg" alt="Your Image" style="max-width: 80%; height: 100%; display: block;">
+            <br> 
+            <p style="margin-left: 3%"><a href="https://www.youtube.com/channel/UCEUx2to1r9z3WvWrR-AZ-3w">YouTube Channel</a>  /  <a href="mailto:lily.goli@mail.utoronto.ca, bahmani@cs.toronto.edu">Email</a> /  <a href="">Slack</a> 
         </div>
         <div style="flex: 1; padding-left: 0px; padding-right: 10px">
-            <p style="text-align: justify;">I am a PhD student at University of Toronto co-advised by <a href="https://www.cs.toronto.edu/~jacobson" target="_blank" rel="noopener noreferrer"> Alec Jacobson </a> and <a href="https://taiya.github.io" target="_blank" rel="noopener noreferrer">Andrea Tagliasacchi</a>. I am currently focused on improving robustness in Radiance Fields and enabling them to work seamlessly with adapted 3D processing tools. More broadly, I am interested in 3D Computer Vision, Graphics and Robot Perception.</p>
-            <p style="text-align: justify;">Previously, I completed my B.Sc. in Sharif University of Technology. I was fortunate to have two wonderful internships at <a href="https://www.cs.cit.tum.de/en/camp/labs-locations/ifl-lab/" target="_blank" rel="noopener noreferrer">IFL lab</a> working with <a href="https://www.professoren.tum.de/en/navab-nassir" target="_blank" rel="noopener noreferrer">Nassir Navab</a>, and at <a href="https://rcl.ece.ubc.ca/" target="_blank" rel="noopener noreferrer">RCL lab</a> working with <a href="https://ece.ubc.ca/purang-abolmaesumi/" target="_blank" rel="noopener noreferrer">Purang Abolmaesumi</a>.</p>
+            <p style="text-align: justify;">Welcome to the 3D Vision Reading Group website! We're thrilled to have you here. Join us every week at the University of Toronto as we dive into the exciting world of 3D Vision. From cutting-edge topics like NeRFs, 3D Gaussian Splats, to the latest in Diffusion Models for 3D, and who knows what else might come up - we're passionately interested in it all! Let's explore, learn, and have fun together!</p>
+            <p style="text-align: justify;">Presenters can select their preferred date for sign-up <a href="https://docs.google.com/spreadsheets/d/1sBPi-K-hiQqm514JqrzIx0JW_d7s910f01g2AkUtZQ0/edit#gid=0">here</a>, while the paper to be presented each week is usually chosen from recently released papers, typically from the past week or two leading up to the presentation date. Sessions will be recorded and saved to our YouTube Channel.</p>
+            <p>Time: TBD<br>Place:TBD<br>Zoom:TBD</p>    
         </div>
 </div>
 <hr style="margin-top: 20px; margin-bottom: 20px;">
 <div>
-        <h2 style="color: #424242;font-size: 27px; font-family: Helvetica-light, serif;">Publications</h2>
+        <h2 style="color: #424242;font-size: 27px; font-family: Helvetica-light, serif;">Reading Sessions</h2>
         <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 20px;">
             <div style="flex: 1; padding: 20px;">
                 <img src="/images/bayesrays.gif" alt="Publication Image 1" style="max-width: 70%; height: 100%; display: block;">
