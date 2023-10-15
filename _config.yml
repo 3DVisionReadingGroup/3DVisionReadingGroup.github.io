@@ -18,13 +18,13 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Lily Goli
+title: 3D Vision Reading Group
 description: >- # this means to ignore newlines until "baseurl:"
-  Lily's personal webpage.
+  3D Vision Reading Group webpage.
 #baseurl: "" # the subpath of your site, e.g. /blog
-url: "lilygoli.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: lily_goli
-github_username:  lilygoli
+url: "3DVisionReadingGroup.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+youtube_username: 3DVisionReadingGroup
+
 
 # Build settings
 theme: minima
