@@ -23,7 +23,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   3D Vision Reading Group webpage.
 #baseurl: "" # the subpath of your site, e.g. /blog
 url: "3DVisionReadingGroup.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-youtube_username: 3DVisionReadingGroup
+youtube_username: @3DVisionReadingGroup
 
 
 # Build settings
