@@ -1,2 +1,2 @@
-# lilygoli.github.io
-My personal webpage, containing information about my educational and research experiences.
+# 3DVisionReadingGroup.github.io
+Webpage for 3D vision reading group at University of Toronto.
