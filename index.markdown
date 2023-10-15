@@ -4,7 +4,7 @@ layout: page
 
 <div style="display: flex; justify-content: space-between; align-items: center;">
         <div style="flex: 1; padding-right: 20px;">
-            <img src="images/3DV.jpeg" alt="Your Image" style="max-width: 80%; height: 100%; display: block;">
+            <img src="images/3DV.jpeg" alt="Your Image" style="max-width: 40%; height: 100%; display: block;">
             <br> 
             <p style="margin-left: 3%"><a href="https://www.youtube.com/channel/UCEUx2to1r9z3WvWrR-AZ-3w">YouTube Channel</a>  /  <a href="mailto:lily.goli@mail.utoronto.ca, bahmani@cs.toronto.edu">Email</a> /  <a href="">Slack</a> 
         </div>
