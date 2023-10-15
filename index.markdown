@@ -4,7 +4,7 @@ layout: page
 
 <div style="display: flex; justify-content: space-between; align-items: center;">
         <div style="flex: 1; padding-right: 20px;">
-            <img src="images/3DV.jpeg" alt="Your Image" style="max-width: 90%; height: 100%; display: block;">
+            <img src="images/3DV.jpeg" alt="Your Image" style="max-width: 90%; display: block;">
             <br> 
             <p style="margin-left: 3%"><a href="https://www.youtube.com/channel/UCEUx2to1r9z3WvWrR-AZ-3w">YouTube Channel</a>  /  <a href="mailto:lily.goli@mail.utoronto.ca, bahmani@cs.toronto.edu">Email</a> /  <a href="">Slack</a></p>
         </div>
@@ -25,7 +25,7 @@ layout: page
 
         <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 20px;">
             <div style="flex: 1; padding: 20px;">
-                <img src="/images/book.png" alt="Publication Image 1" style="max-width: 70%; height: 100%; display: block;">
+                <img src="/images/book.png" alt="Publication Image 1" style="max-width: 70%; display: block;">
                 <p style="margin-left: 14%"> <a href="" target="_blank" rel="noopener noreferrer">Page</a> / <a href="" target="_blank" rel="noopener noreferrer">Arxiv</a> / <a href="" target="_blank" rel="noopener noreferrer">Recording</a></p>
             </div>
             <div style="flex: 1; padding: 20px;">
