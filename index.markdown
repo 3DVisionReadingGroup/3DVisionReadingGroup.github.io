@@ -6,7 +6,7 @@ layout: page
         <div style="flex: 1; padding-right: 20px;">
             <img src="images/3DV.jpeg" alt="Your Image" style="max-width: 90%; display: block;">
             <br> 
-            <p style="margin-left: 3%"><a href="https://www.youtube.com/channel/UCEUx2to1r9z3WvWrR-AZ-3w">YouTube Channel</a>  /  <a href="mailto:lily.goli@mail.utoronto.ca, bahmani@cs.toronto.edu">Email</a> /  <a href="">Slack</a></p>
+            <p style="margin-left: 3%"><a href="https://www.youtube.com/channel/UCEUx2to1r9z3WvWrR-AZ-3w">YouTube Channel</a>  /  <a href="mailto:lily.goli@mail.utoronto.ca, bahmani@cs.toronto.edu">Email</a> /  <a href="https://join.slack.com/share/enQtNjExODU2ODg2MzA1OS02ZGE4ZWE4ZDc3MDIxYWRkZjBiZTU0ZDNkZWRiZmIwYTRkNjc0OWE3MDlhNDc5YTRkMmU5MWMyZTA4M2Q2YzVj" target="_blank" rel="noopener noreferrer">Slack</a> / <a href="https://docs.google.com/presentation/d/1Nk9v8vWYkuYxnDt2sawFISkxx5-X9Ov9JDbtCHaD2lE/edit#slide=id.g25e34c70f7c_1_55" target="_blank" rel="noopener noreferrer">Slides</a></p>
         </div>
         <div style="flex: 1; padding-left: 0px; padding-right: 10px">
             <p style="text-align: justify;">Welcome to the 3D Vision Reading Group website! We're thrilled to have you here. Join us every week at the University of Toronto as we dive into the exciting world of 3D Vision. From cutting-edge topics like NeRFs, 3D Gaussian Splats, to the latest in Diffusion Models for 3D, and who knows what else might come up - we're passionately interested in it all! Let's explore, learn, and have fun together!</p> 
@@ -15,7 +15,7 @@ layout: page
         </div>
 </div>
 <div>
-<p>Time: 4:15-5pm Mondays<br>Place:5256 Bahen center<br>Zoom: shared via email</p>    
+<p>Time: 4:15-5pm Mondays<br>Place: 5256 Bahen center<br>Zoom: shared via email</p>    
 </div>
 <hr style="margin-top: 20px; margin-bottom: 20px;">
 <div>
@@ -86,3 +86,11 @@ layout: page
 
         
     </div>
+
+
+<hr style="margin-top: 20px; margin-bottom: 20px;">
+<div>
+        <h2 style="color: #424242;font-size: 27px; font-family: Helvetica-light, serif;">Preliminary Links and Resources</h2>
+        <p><b>NeRF Resources:</b></b><br><a href="https://nerf-course.github.io/" target="_blank" rel="noopener noreferrer"> NeRF main papers and summaries</a></b><br><a href="https://youtu.be/678RCSaKd4g?si=iK7cgyz_vzHYjftz" target="_blank" rel="noopener noreferrer">NeRF Tutorial Video</a></p>   
+<p><b>Diffusion Model Resources:</b></b><br><a href=" https://yang-song.net/blog/2021/score/" target="_blank" rel="noopener noreferrer">score based generative modeling</a></b><br> <a href="https://cvpr2023-tutorial-diffusion-models.github.io"> Diffusion model CVPR Tutorial</a>  </p>      
+</div>        
