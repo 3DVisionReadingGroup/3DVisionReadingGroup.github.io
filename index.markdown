@@ -91,6 +91,6 @@ layout: page
 <hr style="margin-top: 20px; margin-bottom: 20px;">
 <div>
         <h2 style="color: #424242;font-size: 27px; font-family: Helvetica-light, serif;">Preliminary Links and Resources</h2>
-        <p><b>NeRF Resources:</b></b><br><a href="https://nerf-course.github.io/" target="_blank" rel="noopener noreferrer"> NeRF main papers and summaries</a></b><br><a href="https://youtu.be/678RCSaKd4g?si=iK7cgyz_vzHYjftz" target="_blank" rel="noopener noreferrer">NeRF Tutorial Video</a></p>   
-<p><b>Diffusion Model Resources:</b></b><br><a href=" https://yang-song.net/blog/2021/score/" target="_blank" rel="noopener noreferrer">score based generative modeling</a></b><br> <a href="https://cvpr2023-tutorial-diffusion-models.github.io"> Diffusion model CVPR Tutorial</a>  </p>      
+        <p><b>NeRF Resources:</b><br><a href="https://nerf-course.github.io/" target="_blank" rel="noopener noreferrer"> NeRF main papers and summaries</a><br><a href="https://youtu.be/678RCSaKd4g?si=iK7cgyz_vzHYjftz" target="_blank" rel="noopener noreferrer">NeRF Tutorial Video</a></p>   
+<p><b>Diffusion Model Resources:</b><br><a href=" https://yang-song.net/blog/2021/score/" target="_blank" rel="noopener noreferrer">score based generative modeling</a><br> <a href="https://cvpr2023-tutorial-diffusion-models.github.io" target="_blank" rel="noopener noreferrer"> Diffusion model CVPR Tutorial</a>  </p>      
 </div>        
