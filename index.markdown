@@ -15,7 +15,7 @@ layout: page
         </div>
 </div>
 <div>
-<p>Time: TBD<br>Place:TBD<br>Zoom:TBD</p>    
+<p>Time: 4:15-5pm Mondays<br>Place:5256 Bahen center<br>Zoom: shared via email</p>    
 </div>
 <hr style="margin-top: 20px; margin-bottom: 20px;">
 <div>
@@ -25,13 +25,60 @@ layout: page
 
         <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 20px;">
             <div style="flex: 1; padding: 20px;">
-                <img src="/images/book.png" alt="Publication Image 1" style="max-width: 70%; display: block;">
-                <p style="margin-left: 14%"> <a href="" target="_blank" rel="noopener noreferrer">Page</a> / <a href="" target="_blank" rel="noopener noreferrer">Arxiv</a> / <a href="" target="_blank" rel="noopener noreferrer">Recording</a></p>
+                <img src="/images/4k4d.png" alt="Publication Image 1" style="max-width: 70%; display: block;">
+                <p style="margin-left: 14%"> <a href="https://zju3dv.github.io/4k4d/" target="_blank" rel="noopener noreferrer">Page</a> / <a href="https://arxiv.org/abs/2310.11448" target="_blank" rel="noopener noreferrer">Arxiv</a> </p>
             </div>
             <div style="flex: 1; padding: 20px;">
-                <p> <b>Oct 15, 2023</b>: Paper's Name </p>
-                <p> authors </p>
-                <p><i>preprint/conference</I></p>
+                <p> <b>Oct 23, 2023</b>: 4K4D: Real-Time 4D View Synthesis at 4K Resolution </p>
+                <p> Zhen Xu, Sida Peng, Haotong Lin, Guangzhao He, Jiaming Sun, Yujun Shen, Hujun Bao, Xiaowei Zhou </p>
+                <p><i>preprint</I></p>
+            </div>
+        </div>
+
+<!--   weekly format end -->
+
+<!--   weekly format begin -->
+
+        <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 20px;">
+            <div style="flex: 1; padding: 20px;">
+                <img src="/images/instant3d.png" alt="Publication Image 1" style="max-width: 70%; display: block;">
+                <p style="margin-left: 14%"> <a href="https://instant-3d.github.io/" target="_blank" rel="noopener noreferrer">Page</a> / <a href="https://openreview.net/forum?id=2lDQLiH1W4" target="_blank" rel="noopener noreferrer">Arxiv</a> </p>
+            </div>
+            <div style="flex: 1; padding: 20px;">
+                <p> <b>Oct 23, 2023</b>: Instant3D: Fast Text-to-3D with Sparse-View Generation and Large Reconstruction Model </p>
+                <p> Anonymous Authors </p>
+                <p><i>preprint (ICLR)</I></p>
+            </div>
+        </div>
+
+<!--   weekly format end -->
+<!--   weekly format begin -->
+
+        <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 20px;">
+            <div style="flex: 1; padding: 20px;">
+                <img src="/images/sweetdreamer.png" alt="Publication Image 1" style="max-width: 70%; display: block;">
+                <p style="margin-left: 14%"> <a href="https://sweetdreamer3d.github.io/dmtet-based-gallery_0.html" target="_blank" rel="noopener noreferrer">Page</a> / <a href="http://arxiv.org/abs/2310.02596" target="_blank" rel="noopener noreferrer">Arxiv</a> / <a href="https://www.youtube.com/watch?v=L0rb-b0C46I" target="_blank" rel="noopener noreferrer">Recording</a> </p>
+            </div> 
+            <div style="flex: 1; padding: 20px;">
+                <p> <b>Oct 30, 2023</b>: SweetDreamer: Aligning Geometric Priors in 2D Diffusion for Consistent Text-to-3D </p>
+                <p> Weiyu Li, Rui Chen, Xuelin Chen, Ping Tan </p>
+                <p><i>preprint</I></p>
+            </div>
+        </div>
+
+<!--   weekly format end -->
+<!--   weekly format begin -->
+
+        <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 20px;">
+            <div style="flex: 1; padding: 20px;">
+                <img src="/images/dreamcraft.png" alt="Publication Image 1" style="max-width: 70%; display: block;">
+                <p style="margin-left: 14%"> <a href="https://mrtornado24.github.io/DreamCraft3D/dmtet-based-gallery_0.html" target="_blank" rel="noopener noreferrer">Page</a> / <a href="https://arxiv.org/abs/2310.16818" target="_blank" rel="noopener noreferrer">Arxiv</a>
+                / <a href="https://www.youtube.com/watch?v=L0rb-b0C46I" target="_blank" rel="noopener noreferrer">Recording</a></p>
+            </div>
+            <div style="flex: 1; padding: 20px;">
+                <p> <b>Oct 23, 2023</b>: DreamCraft3D: Hierarchical 3D Generation with Bootstrapped Diffusion Prior </p>
+                <p> Jingxiang Sun, Bo Zhang, Ruizhi Shao, Lizhen Wang, Wen Liu, Zhenda Xie, Yebin Liu </p>
+                <p><i>preprint</I></p>
             </div>
         </div>
 
