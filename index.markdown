@@ -76,7 +76,7 @@ layout: page
                 / <a href="https://www.youtube.com/watch?v=L0rb-b0C46I" target="_blank" rel="noopener noreferrer">Recording</a></p>
             </div>
             <div style="flex: 1; padding: 20px;">
-                <p> <b>Oct 23, 2023</b>: DreamCraft3D: Hierarchical 3D Generation with Bootstrapped Diffusion Prior </p>
+                <p> <b>Oct 30, 2023</b>: DreamCraft3D: Hierarchical 3D Generation with Bootstrapped Diffusion Prior </p>
                 <p> Jingxiang Sun, Bo Zhang, Ruizhi Shao, Lizhen Wang, Wen Liu, Zhenda Xie, Yebin Liu </p>
                 <p><i>preprint</I></p>
             </div>
