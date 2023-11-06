@@ -83,6 +83,39 @@ layout: page
         </div>
 
 <!--   weekly format end -->
+<!--   weekly format begin -->
+
+        <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 20px;">
+            <div style="flex: 1; padding: 20px;">
+                <img src="/images/zeronvs.png" alt="Publication Image 1" style="max-width: 70%; display: block;">
+                <p style="margin-left: 14%"> <a href="https://kylesargent.github.io/zeronvs/" target="_blank" rel="noopener noreferrer">Page</a> / <a href="https://arxiv.org/abs/2310.17994" target="_blank" rel="noopener noreferrer">Arxiv</a>
+                / <a href="https://youtu.be/GGiLG662Ha0" target="_blank" rel="noopener noreferrer">Recording</a></p>
+            </div>
+            <div style="flex: 1; padding: 20px;">
+                <p> <b>Oct 30, 2023</b>: ZeroNVS: Zero-Shot 360-Degree View Synthesis from a Single Real Image </p>
+                <p> Kyle Sargent, Zizhang Li, Tanmay Shah, Charles Herrmann, Hong-Xing Yu, Yunzhi Zhang, Eric Ryan Chan, Dmitry Lagun, Li Fei-Fei, Deqing Sun, Jiajun Wu </p>
+                <p><i>preprint</I></p>
+            </div>
+        </div>
+
+<!--   weekly format end -->
+
+<!--   weekly format begin -->
+
+        <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 20px;">
+            <div style="flex: 1; padding: 20px;">
+                <img src="/images/plnerf.png" alt="Publication Image 1" style="max-width: 70%; display: block;">
+                <p style="margin-left: 14%"> <a href="https://pl-nerf.github.io/" target="_blank" rel="noopener noreferrer">Page</a> / <a href="https://arxiv.org/abs/2310.20685" target="_blank" rel="noopener noreferrer">Arxiv</a>
+                / <a href="https://youtu.be/GGiLG662Ha0" target="_blank" rel="noopener noreferrer">Recording</a></p>
+            </div>
+            <div style="flex: 1; padding: 20px;">
+                <p> <b>Oct 30, 2023</b>: NeRF Revisited: Fixing Quadrature Instability in Volume Rendering </p>
+                <p> Kyle Sargent, Zizhang Li, Tanmay Shah, Charles Herrmann, Hong-Xing Yu, Yunzhi Zhang, Eric Ryan Chan, Dmitry Lagun, Li Fei-Fei, Deqing Sun, Jiajun Wu </p>
+                <p><i>NeurIPS 2023</I></p>
+            </div>
+        </div>
+
+<!--   weekly format end -->
 
         
     </div>
