@@ -110,7 +110,7 @@ layout: page
             </div>
             <div style="flex: 1; padding: 20px;">
                 <p> <b>Nov 6, 2023</b>: NeRF Revisited: Fixing Quadrature Instability in Volume Rendering </p>
-                <p> Kyle Sargent, Zizhang Li, Tanmay Shah, Charles Herrmann, Hong-Xing Yu, Yunzhi Zhang, Eric Ryan Chan, Dmitry Lagun, Li Fei-Fei, Deqing Sun, Jiajun Wu </p>
+                <p> Mikaela Angelina Uy, Kiyohiro Nakayama, Guandao Yang, Rahul Krishna Thomas, Leonidas Guibas, Ke Li </p>
                 <p><i>NeurIPS 2023</I></p>
             </div>
         </div>
