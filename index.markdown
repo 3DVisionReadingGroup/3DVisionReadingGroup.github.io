@@ -117,6 +117,40 @@ layout: page
 
 <!--   weekly format end -->
 
+<!--   weekly format begin -->
+
+        <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 20px;">
+            <div style="flex: 1; padding: 20px;">
+                <img src="/images/emernerf.png" alt="Publication Image 1" style="max-width: 70%; display: block;">
+                <p style="margin-left: 14%"> <a href="https://emernerf.github.io" target="_blank" rel="noopener noreferrer">Page</a> / <a href="https://arxiv.org/abs/2311.02077" target="_blank" rel="noopener noreferrer">Arxiv</a>
+                / <a href="https://youtu.be/_I0IK3VpEzY" target="_blank" rel="noopener noreferrer">Recording</a></p>
+            </div>
+            <div style="flex: 1; padding: 20px;">
+                <p> <b>Nov 13, 2023</b>: EmerNeRF: Emergent Spatial-Temporal Scene Decomposition via Self-Supervision </p>
+                <p> Jiawei Yang, Boris Ivanovic, Or Litany, Xinshuo Weng, Seung Wook Kim, Boyi Li, Tong Che, Danfei Xu, Sanja Fidler, Marco Pavone, Yue Wang </p>
+                <p><i>Arxiv (ICLR)</I></p>
+            </div>
+        </div>
+
+<!--   weekly format end -->
+
+<!--   weekly format begin -->
+
+        <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 20px;">
+            <div style="flex: 1; padding: 20px;">
+                <img src="/images/lrm.png" alt="Publication Image 1" style="max-width: 70%; display: block;">
+                <p style="margin-left: 14%"> <a href="https://yiconghong.me/LRM/" target="_blank" rel="noopener noreferrer">Page</a> / <a href="https://arxiv.org/abs/2310.20685" target="_blank" rel="noopener noreferrer">Arxiv</a>
+                / <a href="https://youtu.be/_I0IK3VpEzY" target="_blank" rel="noopener noreferrer">Recording</a></p>
+            </div>
+            <div style="flex: 1; padding: 20px;">
+                <p> <b>Nov 13, 2023</b>: LRM: Large Reconstruction Model for Single Image to 3D </p>
+                <p> Yicong Hong, Kai Zhang, Jiuxiang Gu, Sai Bi, Yang Zhou, Difan Liu, Feng Liu, Kalyan Sunkavalli, Trung Bui, Hao Tan </p>
+                <p><i>Arxiv</I></p>
+            </div>
+        </div>
+
+<!--   weekly format end -->
+
         
     </div>
 
