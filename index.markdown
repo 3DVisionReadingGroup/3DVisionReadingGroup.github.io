@@ -151,6 +151,41 @@ layout: page
 
 <!--   weekly format end -->
 
+
+<!--   weekly format begin -->
+
+        <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 20px;">
+            <div style="flex: 1; padding: 20px;">
+                <img src="/images/realtimerast.png" alt="Publication Image 1" style="max-width: 70%; display: block;">
+                <p style="margin-left: 14%"> <a href="https://waabi.ai/NeuRas/" target="_blank" rel="noopener noreferrer">Page</a> / <a href="https://arxiv.org/abs/2311.05607" target="_blank" rel="noopener noreferrer">Arxiv</a>
+                / <a href="https://youtu.be/xZl0wQAwdEg" target="_blank" rel="noopener noreferrer">Recording</a></p>
+            </div>
+            <div style="flex: 1; padding: 20px;">
+                <p> <b>Nov 20, 2023</b>: Real-time neural rasterization for large scenes </p>
+                <p> Jeffrey Yunfan Liu , Yun Chen, Ze Yang, Jingkang Wang, Sivabalan Manivasagam, Raquel Urtasun </p>
+                <p><i>ICCV 2023</I></p>
+            </div>
+        </div>
+
+<!--   weekly format end -->
+
+<!--   weekly format begin -->
+
+        <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 20px;">
+            <div style="flex: 1; padding: 20px;">
+                <img src="/images/adaptiveshells.png" alt="Publication Image 1" style="max-width: 70%; display: block;">
+                <p style="margin-left: 14%"> <a href="https://research.nvidia.com/labs/toronto-ai/adaptive-shells/" target="_blank" rel="noopener noreferrer">Page</a> / <a href="https://arxiv.org/abs/2311.10091" target="_blank" rel="noopener noreferrer">Arxiv</a>
+                / <a href="https://youtu.be/xZl0wQAwdEg" target="_blank" rel="noopener noreferrer">Recording</a></p>
+            </div>
+            <div style="flex: 1; padding: 20px;">
+                <p> <b>Nov 20, 2023</b>: Adaptive Shells for Efficient Neural Radiance Field Rendering </p>
+                <p> Zian Wang, Tianchang Shen, Merlin Nimier-David, Nicholas Sharp, Jun Gao, Alexander Keller, Sanja Fidler, Thomas Müller, Zan Gojcic </p>
+                <p><i>SIGGRAPH Asia 2023</I></p>
+            </div>
+        </div>
+
+<!--   weekly format end -->
+
         
     </div>
 
@@ -160,4 +195,7 @@ layout: page
         <h2 style="color: #424242;font-size: 27px; font-family: Helvetica-light, serif;">Preliminary Links and Resources</h2>
         <p><b>NeRF Resources:</b><br><a href="https://nerf-course.github.io/" target="_blank" rel="noopener noreferrer"> NeRF main papers and summaries</a><br><a href="https://youtu.be/678RCSaKd4g?si=iK7cgyz_vzHYjftz" target="_blank" rel="noopener noreferrer">NeRF Tutorial Video</a></p>   
 <p><b>Diffusion Model Resources:</b><br><a href=" https://yang-song.net/blog/2021/score/" target="_blank" rel="noopener noreferrer">score based generative modeling</a><br> <a href="https://cvpr2023-tutorial-diffusion-models.github.io" target="_blank" rel="noopener noreferrer"> Diffusion model CVPR Tutorial</a>  </p>      
-</div>        
+</div>    
+
+
+
