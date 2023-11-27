@@ -186,6 +186,41 @@ layout: page
 
 <!--   weekly format end -->
 
+<!--   weekly format begin -->
+
+        <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 20px;">
+            <div style="flex: 1; padding: 20px;">
+                <img src="/images/physgaus.png" alt="Publication Image 1" style="max-width: 70%; display: block;">
+                <p style="margin-left: 14%"> <a href="https://xpandora.github.io/PhysGaussian/" target="_blank" rel="noopener noreferrer">Page</a> / <a href="https://arxiv.org/pdf/2311.12198.pdf" target="_blank" rel="noopener noreferrer">Arxiv</a>
+                / <a href="https://youtu.be/AickzQ57xDk" target="_blank" rel="noopener noreferrer">Recording</a></p>
+            </div>
+            <div style="flex: 1; padding: 20px;">
+                <p> <b>Nov 27, 2023</b>: PhysGaussian: Physics-Integrated 3D Gaussians for Generative Dynamics </p>
+                <p> Tianyi Xie, Zeshun Zong, Yuxing Qiu, Xuan Li, Yutao Feng, Yin Yang, Chenfanfu Jiang </p>
+                <p><i>Arxiv</I></p>
+            </div>
+        </div>
+
+<!--   weekly format end -->
+
+<!--   weekly format begin -->
+
+        <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 20px;">
+            <div style="flex: 1; padding: 20px;">
+                <img src="/images/drivable.png" alt="Publication Image 1" style="max-width: 70%; display: block;">
+                <p style="margin-left: 14%"> <a href="https://zielon.github.io/d3ga/" target="_blank" rel="noopener noreferrer">Page</a> / <a href="https://arxiv.org/abs/2311.08581" target="_blank" rel="noopener noreferrer">Arxiv</a>
+                / <a href="https://youtu.be/AickzQ57xDk" target="_blank" rel="noopener noreferrer">Recording</a></p>
+            </div>
+            <div style="flex: 1; padding: 20px;">
+                <p> <b>Nov 27, 2023</b>:Drivable 3D Gaussian Avatars </p>
+                <p> Wojciech Zielonka, Timur Bagautdinov, Shunsuke Saito, Michael Zollhöfer, Justus Thies, Javier Romero
+ </p>
+                <p><i>Arxiv</I></p>
+            </div>
+        </div>
+
+<!--   weekly format end -->
+
         
     </div>
 
