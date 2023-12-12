@@ -221,7 +221,78 @@ layout: page
 
 <!--   weekly format end -->
 
-        
+<!--   weekly format begin -->
+
+        <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 20px;">
+            <div style="flex: 1; padding: 20px;">
+                <img src="/images/4dfy.png" alt="Publication Image 1" style="max-width: 70%; display: block;">
+                <p style="margin-left: 14%"> <a href="https://sherwinbahmani.github.io/4dfy/" target="_blank" rel="noopener noreferrer">Page</a> / <a href="https://arxiv.org/abs/2311.17984" target="_blank" rel="noopener noreferrer">Arxiv</a>
+                </p>
+            </div>
+            <div style="flex: 1; padding: 20px;">
+                <p> <b>Dec 4, 2023</b>:4D-fy: Text-to-4D Generation Using Hybrid Score Distillation Sampling </p>
+                <p>Sherwin Bahmani, Ivan Skorokhodov, Victor Rong, Gordon Wetzstein, Leonidas Guibas, Peter Wonka, Sergey Tulyakov, Jeong Joon Park, Andrea Tagliasacchi, David B. Lindell
+ </p>
+                <p><i>Arxiv</I></p>
+            </div>
+        </div>
+
+<!--   weekly format end -->
+
+<!--   weekly format begin -->
+
+        <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 20px;">
+            <div style="flex: 1; padding: 20px;">
+                <img src="/images/gausshader.png" alt="Publication Image 1" style="max-width: 70%; display: block;">
+                <p style="margin-left: 14%"> <a href="https://asparagus15.github.io/GaussianShader.github.io/" target="_blank" rel="noopener noreferrer">Page</a> / <a href="https://arxiv.org/abs/2311.17977" target="_blank" rel="noopener noreferrer">Arxiv</a>
+                </p>
+            </div>
+            <div style="flex: 1; padding: 20px;">
+                <p> <b>Dec 4, 2023</b>:"GaussianShader: 3D Gaussian Splatting with Shading Functions for Reflective Surfaces" </p>
+                <p> Yingwenqi Jiang, Jiadong Tu, Yuan Liu, Xifeng Gao, Xiaoxiao Long, Wenping Wang, Yuexin Ma
+ </p>
+                <p><i>Arxiv</I></p>
+            </div>
+        </div>
+
+<!--   weekly format end -->
+<!--   weekly format begin -->
+
+        <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 20px;">
+            <div style="flex: 1; padding: 20px;">
+                <img src="/images/reconfusion.png" alt="Publication Image 1" style="max-width: 70%; display: block;">
+                <p style="margin-left: 14%"> <a href="https://reconfusion.github.io/" target="_blank" rel="noopener noreferrer">Page</a> / <a href="https://arxiv.org/abs/2312.02981" target="_blank" rel="noopener noreferrer">Arxiv</a>
+                / <a href="https://youtu.be/eBsP1TmUzpA   " target="_blank" rel="noopener noreferrer">Recording</a></p>
+            </div>
+            <div style="flex: 1; padding: 20px;">
+                <p> <b>Dec 11, 2023</b>:ReconFusion: 3D Reconstruction with Diffusion Priors </p>
+                <p> Rundi Wu, Ben Mildenhall, Philipp Henzler, Keunhong Park, Ruiqi Gao, Daniel Watson, Pratul P. Srinivasan, Dor Verbin, Jonathan T. Barron, Ben Poole, Aleksander Holynski
+ </p>
+                <p><i>Arxiv</I></p>
+            </div>
+        </div>
+
+<!--   weekly format end -->
+<!--   weekly format begin -->
+
+        <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 20px;">
+            <div style="flex: 1; padding: 20px;">
+                <img src="/images/splatam.png" alt="Publication Image 1" style="max-width: 70%; display: block;">
+                <p style="margin-left: 14%"> <a href="https://spla-tam.github.io/" target="_blank" rel="noopener noreferrer">Page</a> / <a href="https://arxiv.org/abs/2312.02126" target="_blank" rel="noopener noreferrer">Arxiv</a>
+                / <a href="https://youtu.be/eBsP1TmUzpA  " target="_blank" rel="noopener noreferrer">Recording</a></p>
+            </div>
+            <div style="flex: 1; padding: 20px;">
+                <p> <b>Dec 11, 2023</b>:SplaTAM: Splat, Track & Map 3D Gaussians for Dense RGB-D SLAM </p>
+                <p> Nikhil Keetha, Jay Karhade, Krishna Murthy Jatavallabhula, Gengshan Yang, Sebastian Scherer, Deva Ramanan, Jonathon Luiten
+ </p>
+                <p><i>Arxiv</I></p>
+            </div>
+        </div>
+
+<!--   weekly format end -->
+
+
+     
     </div>
 
 
