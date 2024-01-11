@@ -290,6 +290,41 @@ layout: page
         </div>
 
 <!--   weekly format end -->
+<!--   weekly format begin -->
+
+        <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 20px;">
+            <div style="flex: 1; padding: 20px;">
+                <img src="/images/duster.png" alt="Publication Image 1" style="max-width: 70%; display: block;">
+                <p style="margin-left: 14%"> <a href="https://dust3r.europe.naverlabs.com/" target="_blank" rel="noopener noreferrer">Page</a> / <a href="https://arxiv.org/abs/2312.02126" target="_blank" rel="noopener noreferrer">Arxiv</a>
+                / <a href="https://youtu.be/1rDDu7aEY_Y  " target="_blank" rel="noopener noreferrer">Recording</a></p>
+            </div>
+            <div style="flex: 1; padding: 20px;">
+                <p> <b>Jan 8, 2023</b>: DUSt3R: Geometric 3D Vision Made Easy </p>
+                <p> Shuzhe Wang, Vincent Leroy, Yohann Cabon, Boris Chidlovskii, Jérôme Revaud
+ </p>
+                <p><i>Arxiv</I></p>
+            </div>
+        </div>
+
+<!--   weekly format end -->
+<!--   weekly format begin -->
+
+        <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 20px;">
+            <div style="flex: 1; padding: 20px;">
+                <img src="/images/alignurgaussians.png" alt="Publication Image 1" style="max-width: 70%; display: block;">
+                <p style="margin-left: 14%"> <a href="https://research.nvidia.com/labs/toronto-ai/AlignYourGaussians/" target="_blank" rel="noopener noreferrer">Page</a> / <a href="https://arxiv.org/abs/2312.02126" target="_blank" rel="noopener noreferrer">Arxiv</a>
+                / <a href="https://youtu.be/1rDDu7aEY_Y  " target="_blank" rel="noopener noreferrer">Recording</a></p>
+            </div>
+            <div style="flex: 1; padding: 20px;">
+                <p> <b>Jan 8, 2023</b>: Align Your Gaussians: Text-to-4D with Dynamic 3D Gaussians and Composed Diffusion Models </p>
+                <p> Huan Ling, Seung Wook Kim, Antonio Torralba, Sanja Fidler, Karsten Kreis
+ </p>
+                <p><i>Arxiv</I></p>
+            </div>
+        </div>
+
+<!--   weekly format end -->
+
 
 
      
