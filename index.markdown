@@ -295,7 +295,7 @@ layout: page
         <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 20px;">
             <div style="flex: 1; padding: 20px;">
                 <img src="/images/duster.png" alt="Publication Image 1" style="max-width: 70%; display: block;">
-                <p style="margin-left: 14%"> <a href="https://dust3r.europe.naverlabs.com/" target="_blank" rel="noopener noreferrer">Page</a> / <a href="https://arxiv.org/abs/2312.02126" target="_blank" rel="noopener noreferrer">Arxiv</a>
+                <p style="margin-left: 14%"> <a href="https://dust3r.europe.naverlabs.com/" target="_blank" rel="noopener noreferrer">Page</a> / <a href="https://arxiv.org/abs/2312.14132" target="_blank" rel="noopener noreferrer">Arxiv</a>
                 / <a href="https://youtu.be/1rDDu7aEY_Y  " target="_blank" rel="noopener noreferrer">Recording</a></p>
             </div>
             <div style="flex: 1; padding: 20px;">
@@ -312,7 +312,7 @@ layout: page
         <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 20px;">
             <div style="flex: 1; padding: 20px;">
                 <img src="/images/alignurgaussians.png" alt="Publication Image 1" style="max-width: 70%; display: block;">
-                <p style="margin-left: 14%"> <a href="https://research.nvidia.com/labs/toronto-ai/AlignYourGaussians/" target="_blank" rel="noopener noreferrer">Page</a> / <a href="https://arxiv.org/abs/2312.02126" target="_blank" rel="noopener noreferrer">Arxiv</a>
+                <p style="margin-left: 14%"> <a href="https://research.nvidia.com/labs/toronto-ai/AlignYourGaussians/" target="_blank" rel="noopener noreferrer">Page</a> / <a href="https://arxiv.org/abs/2312.13763" target="_blank" rel="noopener noreferrer">Arxiv</a>
                 / <a href="https://youtu.be/1rDDu7aEY_Y  " target="_blank" rel="noopener noreferrer">Recording</a></p>
             </div>
             <div style="flex: 1; padding: 20px;">
